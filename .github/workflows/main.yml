@@ -1,6 +1,6 @@
 name: Run Selenium On GitHub Action
 
-on:
+#on:
   push:
     branches: ["main"]
   pull_request:
